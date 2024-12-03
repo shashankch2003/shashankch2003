@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shashankcheere</h1>
-<h3 align="center">A passionate full stack , sde developer , data analytics from India</h3>
+<h3 align="center">A passionate cyber secruity ,ethicak hacker ,full stack , SDE developer , data analyst from India</h3>
 
 <img src="https://wallpapers.com/images/high/hacker-background-yf4qfm0zurappf4e.webp" alt="Hacker Background" style="width:100%; height:auto;">
 
@@ -19,13 +19,15 @@
 
 - 🤝 I’m looking for help with [community of devs & health care ecosystem project](https://github.com/shashankch2003/offical-website-unconquoros)
 
-- 💬 Ask me about **react,js,dsa,etc**
+- 💬 Ask me about **full stack,react.js,DSA,etc**
 
 - 📫 How to reach me **shashankcheere@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FUS-YuZv6BiuHRDaqZloYwtLb-o-2zqx/view?usp=drive_link](https://drive.google.com/file/d/1FUS-YuZv6BiuHRDaqZloYwtLb-o-2zqx/view?usp=drive_link)
 
 - ⚡ Fun fact **i think i contribute to lot of innovate project,hackthon's more then my time 😂**
+
+- i work on freelancing projects if you do have any work reach me out via email,linkedin
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
