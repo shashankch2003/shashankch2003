@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm shashankcheere</h1>
 <h3 align="center">A passionate full stack , sde developer , data analytics from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/imgres?q=hacker&imgurl=https%3A%2F%2Fcdn.metatime.com%2Flanding%2Fblog%2F1686575019blobid0.jpg&imgrefurl=https%3A%2F%2Fmetatime.com%2Fen%2Fblog%2Fwhat-is-a-hacker-what-are-the-types-of-hackers&docid=XaZetHOFjIv9HM&tbnid=8m5oPlXfggxMgM&vet=12ahUKEwinydbt-MKJAxWuxjgGHUEHJB0QM3oECFAQAA..i&w=1440&h=800&hcb=2&ved=2ahUKEwinydbt-MKJAxWuxjgGHUEHJB0QM3oECFAQAA](https://www.google.com/imgres?q=good%20hacker%20gif&imgurl=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2022%2F12%2Ficegif-496.gif&imgrefurl=https%3A%2F%2Fwww.icegif.com%2Fhacker-30%2F&docid=7vSilItf_Pw6wM&tbnid=uJPEzMykSMH5OM&vet=12ahUKEwieiZrE-cKJAxUmyDgGHanJLtYQM3oECDsQAA..i&w=498&h=373&hcb=2&ved=2ahUKEwieiZrE-cKJAxUmyDgGHanJLtYQM3oECDsQAA](https://www.istockphoto.com/illustrations/hacker-background)"/>
+<img src="https://wallpapers.com/images/high/hacker-background-yf4qfm0zurappf4e.webp" alt="Hacker Background" style="width:100%; height:auto;">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankch2003&label=Profile%20views&color=0e75b6&style=flat" alt="shashankch2003" /> </p>
 
