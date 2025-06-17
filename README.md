@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shashankcheere</h1>
-<h3 align="center">A passionate cyber secruity ,ethical hacker ,full stack , SDE developer , data analyst from India</h3>
+<h3 align="center">A passionate cyber secruity ,ethical hacker currently working on ai worked as full stack , SDE developer , data analyst from India</h3>
 
 <img src="https://wallpapers.com/images/high/hacker-background-yf4qfm0zurappf4e.webp" alt="Hacker Background" style="width:100%; height:auto;">
 
