@@ -7,11 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankch2003&label=Profile%20views&color=0e75b6&style=flat" alt="shashankch2003" /> </p>
 
-<iframe src="https://github.com/sponsors/shashankch2003/card" title="Sponsor shashankch2003" height="225" width="600" style="border: 0;"></iframe>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankch2003" alt="shashankch2003" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **audio to sign language**
 
