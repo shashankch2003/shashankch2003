@@ -38,6 +38,7 @@ Support my open-source work—become a sponsor!
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+you can join our discord community:https://discord.gg/3xW7G7RS
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
