@@ -86,12 +86,6 @@ Focused on **automation, scalable infra & system design**
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashankch2003&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 ## GSSOC(24) Badges 🪶
 
 <div align="center">
