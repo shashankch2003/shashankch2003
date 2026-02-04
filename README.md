@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-Building **AI-powered systems** (Audio → Sign Language)  
+Built **AI-powered systems** (Audio → Sign Language)  
 Engineering across **Full Stack, ML, DevOps & Security**  
 Focused on **automation, scalable infra & system design**
 
