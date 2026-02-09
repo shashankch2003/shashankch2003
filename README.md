@@ -59,6 +59,7 @@ Focused on **automation, scalable infra & system design**
 ## 🐍 Contribution Snake
 
 <p align="center">
+  yet to work
   <img src="https://raw.githubusercontent.com/shashankch2003/shashankch2003/output/github-contribution-grid-snake.svg"/>
 </p>
 
