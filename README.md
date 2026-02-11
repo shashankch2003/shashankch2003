@@ -104,13 +104,6 @@ Focused on **automation, scalable infra & system design**
 
 ---
 
-## 🌟 Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashankch2003&repo=REPO_NAME&theme=tokyonight"/>
-</p>
-
----
 
 ## 💡 Dev Quote
 
