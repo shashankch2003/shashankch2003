@@ -1,10 +1,10 @@
 <h1 align="center">Shashank Cheere</h1>
 <h3 align="center">Full-Stack Engineer • AI Systems • Security Engineering</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashankch2003&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/github/followers/shashankch2003?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/shashankch2003?style=for-the-badge"/>
+  <h3 align="center" >portfolio : https://ai-cybersec-pro.preview.emergentagent.com/</h3>
 </p>
 
 ---
