@@ -1,41 +1,64 @@
 <h1 align="center">Shashank Cheere</h1>
-<h3 align="center">Full-Stack Engineer • AI Systems • Security Engineering</h3>
+<h3 align="center">AI Systems Engineer • Backend Architect • Security-First Builder</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashankch2003&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/github/followers/shashankch2003?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/shashankch2003?style=for-the-badge"/>
-  <h3 align="center" >portfolio : https://ai-cybersec-pro.preview.emergentagent.com/</h3>
+</p>
+
+<p align="center">
+  🌐 Portfolio: https://ai-cybersec-pro.preview.emergentagent.com/
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Engineering Identity
 
-Built **AI-powered systems** (Audio → Sign Language)  
-Engineering across **Full Stack, ML, DevOps & Security**  
-Focused on **automation, scalable infra & system design**
+I build intelligent, production-oriented systems with strong architectural foundations.
+
+My focus:
+• AI-powered interfaces (Audio → Sign Language)
+• Backend systems & scalable APIs
+• Security-first system design
+• Automation & DevOps infrastructure
+• Distributed systems thinking
+
+I care about ownership, clarity, and deep work.
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Selected Deep Work
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,figma" />
+### 🎯 AI Interface System — Audio → Sign Language
+Designing an AI pipeline that transforms speech into real-time sign representations.
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,java,python,go,ruby,php" />
+Key Focus:
+• Model inference pipelines  
+• Real-time data transformation  
+• Latency-aware architecture  
+• Accessibility-driven product engineering  
 
-### AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-<img src="https://img.shields.io/badge/MATLAB-Learning-orange?style=for-the-badge" />
+---
 
-### DevOps / Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,grafana" />
+### 🔐 Security-First Engineering
+Security is integrated at design level — not added later.
 
-### Security
-<img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hashcat-darkgrey?style=for-the-badge"/>
+Work Areas:
+• Web application testing & adversarial simulation  
+• Infrastructure hardening  
+• Secure API architecture  
+• Cloud security principles  
+• DevSecOps workflows  
+
+---
+
+### ⚙️ Backend & System Architecture
+• REST & event-driven architectures  
+• Performance optimization  
+• Observability & debugging  
+• CI/CD automation  
+• Containerized deployments  
 
 ---
 
@@ -45,35 +68,44 @@ Focused on **automation, scalable infra & system design**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankch2003&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-
----
-
-## 📈 Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankch2003&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# ⚙️ Core Stack
 
-<p align="center">
-  yet to work
-  <img src="https://raw.githubusercontent.com/shashankch2003/shashankch2003/output/github-contribution-grid-snake.svg"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,figma" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,java,python,go,ruby,php" />
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+### DevOps & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,grafana" />
+
+---
+
+# 🔐 Security Engineering
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/burpsuite/ff6633" width="40"/>
+  <img src="https://cdn.simpleicons.org/metasploit/2e3440" width="40"/>
+  <img src="https://nmap.org/images/sitelogo.png" height="40"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679a7" width="40"/>
+  <img src="https://cdn.simpleicons.org/splunk/000000" width="40"/>
+  <img src="https://cdn.simpleicons.org/elastic/005571" width="40"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ed" width="40"/>
+  <img src="https://cdn.simpleicons.org/kubernetes/326ce5" width="40"/>
 </p>
 
 ---
 
-## ⏳ Weekly Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 🧠 Competitive Coding
+# 🧠 Competitive Programming
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/shashank9701219685?theme=dark"/>
@@ -81,39 +113,34 @@ Focused on **automation, scalable infra & system design**
 
 ---
 
-## 🏆 Achievements
+# 🏆 Open Source Contributions
 
-## GSSOC(24) Badges 🪶
+## GSSOC (24)
 
 <div align="center">
 <a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="85"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="85"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="85"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="85"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="85"/>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="85"/>
 </a>
 </div>
 
 ---
 
+# 🧭 Engineering Philosophy
 
-## 💡 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+• Design for failure  
+• Security by architecture  
+• Automate repetitive systems  
+• Build reusable infrastructure  
+• Optimize only after measurement  
 
 ---
 
-## 💖 Support My Work
+# 💖 Support
 
 <p align="center">
   <a href="https://github.com/sponsors/shashankch2003">
@@ -126,5 +153,6 @@ Focused on **automation, scalable infra & system design**
 
 ---
 
-### 📌 Currently Exploring
-Go • Ruby • Solidity • Advanced System Design
+# 📌 Currently Exploring
+
+Distributed Systems • Advanced System Design • Secure Cloud Architectures • AI Inference Optimization
