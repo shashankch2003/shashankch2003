@@ -24,7 +24,7 @@ My focus:
 • Automation & DevOps infrastructure
 • Distributed systems thinking
 
-I care about ownership, clarity, and deep work.
+I care about ownership, clarity, Innovation and deep work.
 
 ---
 
