@@ -11,7 +11,6 @@
   🌐 Portfolio: https://ai-cybersec-pro.preview.emergentagent.com/
 </p>
 
-
 ---
 
 ## 🧠 Engineering Identity
